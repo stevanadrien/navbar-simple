@@ -1,0 +1,21 @@
+#navbar {
+  color: white;
+}
+body {
+  height: 100rem;
+  background-color: bisque;
+}
+#color1 {
+  color: white;
+  margin-left: 20px;
+}
+#color1:hover {
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 5px 10px rgb(238, 255, 5);
+}
+.fixed-top {
+  border: 3px solid rgb(2, 75, 2);
+  border-radius: 30px;
+  background-color: rgb(104, 50, 11);
+  margin: 10px;
+}
